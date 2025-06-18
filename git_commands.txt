@@ -1,0 +1,36 @@
+ 3 python testing.py
+   4 ls
+   5 ls -l
+   6 ls -l
+   7 git init
+   8 ls -a
+   9 clear
+  10 dir -l
+  11 git status
+  12 dir
+  13 git status
+  14 git add testing.py
+  15 git status
+  16 git commit -m "added testing files"
+  17 git commit -m "added testing files"
+  18 git rm testing.py
+  19 git restore testing.py
+  20 clear
+  21 git status
+  22 git restore testing.py
+  23 git restore --source=HEAD testing.py
+  24 git status
+  25 git add testing.py
+  26 git commit testing.py
+  27 git status
+  28 clear
+  34 git remote add origin https://github.com/Namita3006/github-for-devops.git
+  35 git remote -v
+  36 git push origin master
+  38 git remote -v
+  39 git push origin master
+
+  41 cd..
+  42 mkdir github-train-new
+  43 cd github-train-new
+  44 git clone https://github.com/Namita3006/git-for-devops.git
